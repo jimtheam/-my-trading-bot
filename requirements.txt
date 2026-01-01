@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+requests
+ta
+alpaca_trade_api
